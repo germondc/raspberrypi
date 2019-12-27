@@ -1,0 +1,11 @@
+### ensure wifi hardware is enabled
+nmcli radio
+
+### scan for networks
+nmcli device wifi rescan
+
+### list networks
+nmcli device wifi
+
+### connect
+nmcli device wifi  connect "SSID" password "PASSWORD"
