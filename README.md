@@ -7,3 +7,5 @@
 5. SSH details:
     - user: pi
     - password: raspberry
+
+![gpio](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRjdxAYzEtNY1tAVuD1mznpxaonAkTs-7f8XT3hPSy7cYFOKiKa)
